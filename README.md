@@ -1,2 +1,2 @@
-# Hello-CicleCI
+# Hello CicleCI
 First try with CircleCI
